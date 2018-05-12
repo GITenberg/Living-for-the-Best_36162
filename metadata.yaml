@@ -1,0 +1,33 @@
+_repo: Living-for-the-Best_36162
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36162-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McClure, James G. K. (James Gore King)
+    alias: McClure, James Gore King
+    birthdate: 1848
+    deathdate: 1932
+    gutenberg_agent_id: '38108'
+    url: http://www.gutenberg.org/2009/agents/38108
+description: ''
+gutenberg_issued: '2011-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36162'
+  lccn: '03010060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Spiritual life'
+- !lcsh 'Christian life'
+tableOfContents: Open to the best -- Winning the best victories -- Making the best
+  use of our lives -- Putting the best into others -- Developing our best under difficulties
+  -- The need of retaining the best wisdom -- The best possession -- Using aright
+  our best hours -- Giving our best to God.
+title: Living for the Best
+url: http://www.gutenberg.org/ebooks/36162
